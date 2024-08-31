@@ -23,9 +23,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/praetorian-inc/NTLMRecon/internal/ntlm"
-	"github.com/praetorian-inc/NTLMRecon/pkg/paths"
-	"github.com/praetorian-inc/NTLMRecon/pkg/structs"
+	"github.com/jkellnersec/NTLMRecon/internal/ntlm"
+	"github.com/jkellnersec/NTLMRecon/pkg/paths"
+	"github.com/jkellnersec/NTLMRecon/pkg/structs"
 	"github.com/projectdiscovery/fastdialer/fastdialer"
 	"github.com/projectdiscovery/retryablehttp-go"
 )
