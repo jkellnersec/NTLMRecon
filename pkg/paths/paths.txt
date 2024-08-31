@@ -5,4 +5,6 @@
 /Autodiscover
 /Autodiscover/AutodiscoverService.svc/root
 /Autodiscover/Autodiscover.xml
+/adfs/ls/wia
+
 
