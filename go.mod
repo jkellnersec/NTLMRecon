@@ -1,4 +1,4 @@
-module github.com/praetorian-inc/NTLMRecon
+module github.com/jkellnersec/NTLMRecon
 
 go 1.20
 
