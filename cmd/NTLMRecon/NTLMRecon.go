@@ -21,7 +21,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/praetorian-inc/NTLMRecon/pkg/NTLMRecon"
+	"github.com/jkellnersec/NTLMRecon/pkg/NTLMRecon"
 )
 
 func main() {
